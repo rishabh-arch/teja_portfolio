@@ -86,7 +86,7 @@ export default {
   },
   router: {
     trailingSlash: false,
- base: ''
+ base: '/teja_portfolio/'
   },
   build: {
     transpile: ['swiper', 'dom7'],
