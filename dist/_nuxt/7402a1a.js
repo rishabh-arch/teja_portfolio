@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{330:function(n,e,d){"use strict";d.r(e);var l={name:"Slug",extends:d(324).default},t=d(10),component=Object(t.a)(l,undefined,undefined,!1,null,null,null);e.default=component.exports}}]);
